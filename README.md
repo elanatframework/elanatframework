@@ -23,6 +23,6 @@ In addition to the CodeBehind framework and Elanat CMS, the Elanat team maintain
  - **WebFormsJS:**  WebFormsJS is a JavaScript library that manages HTML page tags based on the data it receives from the server.
  - **Elanat CMS:** Elanat CMS is a large content management system based on ASP.NET Core, which was created using the CodeBehind framework.
  - **Elanat add-ons:** In the Elanat add-ons repository, we maintain add-ons, raw files and libraries separate from the Elanat CMS core.
- - **Elanat old:** Elanat old repository is the old version of Elanat CMS and is based on .NET Standard version 4.5.
+ - **Elanat old:** Elanat old repository is the old version of Elanat CMS and is based on .NET Framework version 4.5.
 
 All repositories are licensed under GPLv3.
