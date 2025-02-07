@@ -25,4 +25,4 @@ In addition to the CodeBehind framework and Elanat CMS, the Elanat team maintain
  - **Elanat add-ons:** In the Elanat add-ons repository, we maintain add-ons, raw files and libraries separate from the Elanat CMS core.
  - **Elanat old:** Elanat old repository is the old version of Elanat CMS and is based on .NET Framework version 4.5.
 
-All repositories are licensed under GPLv3.
+All repositories are licensed under MIT.
