@@ -10,13 +10,9 @@ This page is the repositories of the Elanat team. Our team owns three web based 
 
 ---
 
----
-
 ![ ](https://avatars.githubusercontent.com/u/217896082?s=64)
 
 [WebForms Core](https://github.com/webforms-core)
-
----
 
 ---
 
