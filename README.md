@@ -1,5 +1,7 @@
 This page is the repositories of the [Elanat](https://elanat.net) team. Our team owns three web based software products.
 
+All Elanat products are created from the ground up, so they are not copies of other frameworks or technologies and have their own unique ideas and design.
+
 ### Our products:
 
 ---
