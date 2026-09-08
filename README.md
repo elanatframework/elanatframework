@@ -29,7 +29,7 @@ In addition to software products, we maintain several other repositories on GitH
 ### List of repositories:
 
 - **CodeBehind Framework:** CodeBehind Framework is a modern back-end framework under .NET Core that competes with default frameworks ASP.NET Core MVC and Razor Pages.
-- **WebForms Core:** WebForms Core (WFC) is a powerful technology for managing DOM elements through the server.
+- **WebForms Core:** WebForms Core (WFC) is a powerful technology for managing DOM elements through the server and client.
 - **WebForms Classes:**  In WFC technology, WebForms classes (including advanced methods) are used on the server side.
 - **WebFormsJS:** In WFC technology, WebFormsJS is a JavaScript library that manages HTML page tags based on the data it receives from the server.
 - **Elanat CMS:** Elanat CMS is a large content management system based on ASP.NET Core, which was created using the CodeBehind framework.
